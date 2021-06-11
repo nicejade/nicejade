@@ -1,14 +1,17 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=nicejade&show_icons=true&icon_color=805AD5&text_color=2edfa3&bg_color=ffffff&hide_title=true&title_color=20a0ff" alt="JadeYang(杨琼璞)'s GitHub Stats">
+<br />
+<br />
+<p align="left">
+  <img heigth="195" src="https://github-readme-stats.vercel.app/api?username=nicejade&show_icons=true&theme=synthwave" alt="nicejade :: Profile Stats" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicejade&langs_count=10&theme=synthwave&layout=compact" alt="nicejade :: Top Langs" />
+</p>
 
-## 😎 Hey, nice to see you.
-
->As you think, so shall you become.
-
-🇨🇳 China Shenzhen・🌊 Development Engineer
-
-https://nicelinks.site
-
-
-[倾城之链](https://nicelinks.site/explore/all?utm_source=github.com&pid=nicejade)，作为一个开放平台，旨在云集全球优秀网站，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。
-
-<img src="https://s1.ax1x.com/2020/06/13/tvs7NQ.png" style="width: 100%" alt="倾城之链">
+## 置顶
+<p align="left">
+ 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nicejade&repo=arya-jarvis&theme=radical)](https://github.com/nicejade/arya-jarvis) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nicejade&repo=awesome-quickapp&theme=cobalt)](https://github.com/nicejade/awesome-quickapp)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nicejade&repo=vuepress-web-app&theme=synthwave)](https://github.com/nicejade/vuepress-web-app) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nicejade&repo=nice-front-end-tutorial&theme=merko)](https://github.com/nicejade/nice-front-end-tutorial)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nicejade&repo=nicelinks-weekly&theme=dracula)](https://github.com/nicejade/nicelinks-weekly) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nicejade&repo=www.lovejade.cn&theme=gruvbox)](https://github.com/nicejade/www.lovejade.cn)
+</p>
