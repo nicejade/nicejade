@@ -9,12 +9,6 @@
 <a href="https://www.facebook.com/nice.jade.yang">
   <img align="left" alt="杨琼璞 | Facebook" width="26px" src="https://github.com/nicejade/nicejade/blob/master/icon/facebook.svg" />
 </a>
-<a href="https://weibo.com/jeffjade">
-  <img align="left" alt="杨琼璞 | 新浪微博" width="26px" src="https://github.com/nicejade/nicejade/blob/master/icon/weibo.svg" />
-</a>
-<a href="https://www.jianshu.com/u/9aae3d8f4c3d">
-  <img align="left" alt="杨琼璞 | 简书" width="26px" src="https://github.com/nicejade/nicejade/blob/master/icon/jianshu.svg" />
-</a >
 <a href="https://t.me/nicejade">
   <img align="left" alt="杨琼璞 | 电报" width="26px" src="https://github.com/nicejade/nicejade/blob/master/icon/telegram.svg" />
 </a>
