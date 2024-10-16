@@ -3,7 +3,7 @@
 <a href="https://fine.niceshare.site/?ref=github.com">
   <img align="left" alt="杨琼璞 | 晚晴幽草轩" width="26px" src="https://github.com/nicejade/nicejade/blob/master/icon/blog.svg" />
 </a>
-<a href="https://twitter.com/nicejadeyang">
+<a href="https://x.com/MarshalXuan">
   <img align="left" alt="杨琼璞 | Twitter" width="26px" src="https://github.com/nicejade/nicejade/blob/master/icon/twitter.svg" />
 </a>
 <a href="https://www.facebook.com/nice.jade.yang">
