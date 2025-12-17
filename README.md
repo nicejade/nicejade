@@ -10,6 +10,9 @@
 - 🍑 [玉桃文飨轩](https://share.lovejade.cn/)：Markdown 文本转图片工具；
 
 <a href="https://www.youtube.com/@MarshalXuan">
+  <img align="left" src="https://kangchainx.github.io/github-christmas-kit/assets/svg/christmas-tree.svg" alt="christmas-tree" width="32" />
+</a> 
+<a href="https://www.youtube.com/@MarshalXuan">
   <img align="left" alt="轩帅 | YouTube" width="26px" src="https://github.com/nicejade/nicejade/blob/master/icon/youtube.svg" />
 </a>
 <a href="https://x.com/MarshalXuan">
