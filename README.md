@@ -1,5 +1,7 @@
 👋 你好，朋友！我是 [杨轩帅](https://nicejade.bio.link/)（字琼璞）——专注于构建提升效率、共享资源与探索技术的实用型项目：
 
+<img style="max-width: 520px" align="right" src="https://github-readme-stats.vercel.app/api?username=nicejade&show_icons=true&count_private=true&theme=solarized-light" alt="杨轩帅's GitHub Stats"/>
+
 - 💰 [生财有迹](https://fund.lovejade.cn/)：个人资产跟踪与分析工具；
 - 🕸️ [倾城之链](https://site.lovejade.cn/)：优质网站在线导航平台；
 - 🐉 [逍遥自在轩](https://niceshare.site/)：悦享优质 AI、软件和服务；
