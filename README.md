@@ -1,7 +1,8 @@
 👋 你好，朋友！我是 [杨轩帅](https://nicejade.bio.link/)（字琼璞）——专注于构建提升效率、共享资源与探索技术的实用型项目：
 
-<img style="max-width: 520px" align="right" src="https://github-readme-stats.vercel.app/api?username=nicejade&show_icons=true&count_private=true&theme=solarized-light" alt="杨轩帅's GitHub Stats"/>
+<img style="max-width: 520px" align="right" src="https://www.niceshare.site/logo_2abmnm.webp" alt="杨轩帅's GitHub Stats"/>
 
+- 📖 [智析单词书](https://word.lovejade.cn/)：用 AI 的智慧重塑单词学习；
 - 💰 [生财有迹](https://fund.lovejade.cn/)：个人资产跟踪与分析工具；
 - 🕸️ [倾城之链](https://site.lovejade.cn/)：优质网站在线导航平台；
 - 🐉 [逍遥自在轩](https://niceshare.site/)：悦享优质 AI、软件和服务；
@@ -11,9 +12,6 @@
 - 🐳 [在线编辑器](https://markdown.lovejade.cn/)：在线 Markdown 编辑器；
 - 🍑 [玉桃文飨轩](https://share.lovejade.cn/)：Markdown 文本转图片工具；
 
-<a href="https://www.youtube.com/@MarshalXuan">
-  <img align="left" src="https://kangchainx.github.io/github-christmas-kit/assets/svg/christmas-tree.svg" alt="christmas-tree" width="32" />
-</a> 
 <a href="https://www.youtube.com/@MarshalXuan">
   <img align="left" alt="轩帅 | YouTube" width="26px" src="https://github.com/nicejade/nicejade/blob/master/icon/youtube.svg" />
 </a>
