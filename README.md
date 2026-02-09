@@ -70,4 +70,6 @@
 
 - ✨ [**read.lovejade.cn**](https://github.com/nicejade/read.lovejade.cn): a curated Vue/Vite-powered site of beautiful sayings and reflections — from emotional to philosophical to inspirational — designed to surface text that resonates with your heart and sparks thought.
 - 🤖 [**arya-jarvis**](https://arya.lovejade.cn/): an all-in-one Node.js developer assistant CLI that automates everyday dev tasks (formatting, previews, servers, QR tools, network helpers, etc.) so you can move faster with less friction.
- - 🔗 [**nicelinks-vue-client**](https://site.lovejade.cn/): a sleek Vue 3 + Vite frontend for **niceLinks** that turns curated links into a fast, customizable, and elegant personal portal for discovering and sharing your favorite resources.
+- 🔗 [**nicelinks-vue-client**](https://site.lovejade.cn/): a sleek Vue 3 + Vite frontend for **niceLinks** that turns curated links into a fast, customizable, and elegant personal portal for discovering and sharing your favorite resources.
+- 🌍 [**nice-front-end-tutorial**](https://www.jeffjade.com/2017/09/28/127-nice-front-end-tutorial/): a continuously updated collection of front-end resources, tutorials and curated insights covering HTML/CSS/JS, popular frameworks, tools and trends to help developers learn and stay sharp in web development.
+- 📰 [**blog.nicelinks.site**](https://link.niceshare.site/): a Gatsby-powered static blog site that hosts the “NiceLinks Weekly” curated newsletter and related.
