@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <h1>杨轩帅 · 作品与宇宙</h1>
   <p>专注于构建提升效率、共享资源与探索技术的实用型产品，让每一次点击都更有价值。</p>
   <p>
@@ -6,14 +6,7 @@
     <a href="https://www.lovejade.cn/">清风明月轩</a> ·
     <a href="https://www.jeffjade.com/">晚晴幽草轩</a>
   </p>
-  <p>
-    <img src="https://img.shields.io/badge/Design-Intentional-0ea5e9?style=flat-square" alt="Design Intentional" />
-    <img src="https://img.shields.io/badge/Build-For%20Humans-22c55e?style=flat-square" alt="Build for Humans" />
-    <img src="https://img.shields.io/badge/Tech-Modern-8b5cf6?style=flat-square" alt="Tech Modern" />
-  </p>
 </div>
-
----
 
 ## 项目矩阵
 
@@ -27,11 +20,9 @@
 - 🐳 [在线编辑器](https://markdown.lovejade.cn/)：轻量顺滑的 Markdown 在线编辑。
 - 🍑 [玉桃文飨轩](https://share.lovejade.cn/)：Markdown 一键成图的美感工具。
 
----
-
 ## 连接我
 
-<div align="center">
+<div align="left">
   <a href="https://www.youtube.com/@MarshalXuan">
     <img alt="轩帅 | YouTube" width="26px" src="https://github.com/nicejade/nicejade/blob/master/icon/youtube.svg" />
   </a>
