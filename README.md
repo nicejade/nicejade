@@ -2,7 +2,7 @@
 
 专注于构建提升效率、共享资源与探索技术的实用型产品，让每一次点击都更有价值。
 
-<a href="https://nicejade.bio.link/">个人主页</a> ·
+个人主页：
 <a href="https://www.lovejade.cn/">清风明月轩</a> ·
 <a href="https://niceshare.site/">逍遥自在轩</a> ·
 <a href="https://www.jeffjade.com/">晚晴幽草轩</a>
