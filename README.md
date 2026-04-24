@@ -19,7 +19,7 @@
 
 ## Project Matrix
 
-- 📜 [慧悟万象阁](https://meta.niceshare.site/)：收录 350+ 高杠杆认知工具。
+- 📜 [慧悟万象阁](https://meta.niceshare.site/)：收录 390+ 高杠杆认知工具。
 - 📖 [智析单词书](https://word.lovejade.cn/)：用 AI 智慧重塑单词学习路径。
 - 💰 [生财有迹](https://fund.lovejade.cn/)：个人资产的跟踪、分析与可视化。
 - 🕸️ [倾城之链](https://site.lovejade.cn/)：高品质网站导航与发现平台。
