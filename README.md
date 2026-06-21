@@ -58,6 +58,8 @@
 
 ## Current Projects
 
+- 🤖 [**agent.jeffjade.com**](https://github.com/nicejade/agent.jeffjade.com): Focus on quickly mastering mainstream AI Agents like Claude Code, Hermes Agent, etc.
+- 🌍 [spacetime-travel](https://github.com/nicejade/spacetime-travel) is a local-first travel memory atlas built with Svelte, Vite, Tailwind CSS, Express, and SQLite.
 - 🧠 [**life-spent**](https://spent.lovejade.cn/): a minimalist web app that calmly visualizes how much of your life has already passed based on age and expectancy—no hype, just reflective math.
 - 📚 [**gpt-wordbook**](https://word.lovejade.cn/): an AI-enhanced English vocabulary learning web app built with Astro that turns word lists into an interactive “wordbook” experience to help learners deepen vocabulary retention with context and AI insights.
 - 📁 [**fine-directory-curator**](https://fine.niceshare.site/projects/fine-directory-curator/): a Rust-powered CLI that elegantly sorts and categorizes messy folders (starting with Downloads) into tidy, structured directories for a streamlined, clutter-free macOS/Linux workflow.
