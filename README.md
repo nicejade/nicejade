@@ -19,6 +19,7 @@
 
 ## Project Matrix
 
+- 🃏 [逸趣游乐坊](https://play.niceshare.site/): 精选轻游戏，开箱可畅玩。
 - 📜 [慧悟万象阁](https://meta.niceshare.site/)：收录 390+ 高杠杆认知工具。
 - 📖 [智析单词书](https://word.lovejade.cn/)：用 AI 智慧重塑单词学习路径。
 - 💰 [生财有迹](https://fund.lovejade.cn/)：个人资产的跟踪、分析与可视化。
