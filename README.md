@@ -19,9 +19,11 @@
 
 ## Project Matrix
 
-- 🃏 [逸趣游乐坊](https://play.niceshare.site/): 精选轻游戏，开箱可畅玩。
+- 🃏 [逸趣游乐坊](https://play.niceshare.site/)：益智休闲轻游，开箱畅玩乐悠。
+- 📝 [蓝河文档馆](https://blueos.niceshare.site/)：BlueOS（蓝河）应用开发文档；
 - 📜 [慧悟万象阁](https://meta.niceshare.site/)：收录 390+ 高杠杆认知工具。
 - 📖 [智析单词书](https://word.lovejade.cn/)：用 AI 智慧重塑单词学习路径。
+- 💰 [时空旅行](https://travel.niceshare.site/)：定制地图，串联时空旅行记忆。
 - 💰 [生财有迹](https://fund.lovejade.cn/)：个人资产的跟踪、分析与可视化。
 - 🕸️ [倾城之链](https://site.lovejade.cn/)：高品质网站导航与发现平台。
 - 🐉 [逍遥自在轩](https://niceshare.site/)：精选 AI、软件与服务的体验清单。
