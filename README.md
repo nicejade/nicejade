@@ -61,7 +61,7 @@
 
 ## Current Projects
 
-- 𝕏 [x-follow-gate(https://github.com/nicejade/x-follow-gate): `X Follow Gate` is a local-first Chrome extension for X.com that helps you analyze your Following list, identify unwanted accounts, and safely unfollow them with customizable rules and rate limits. 
+- 𝕏 [x-follow-gate](https://github.com/nicejade/x-follow-gate): is a local-first Chrome extension for X.com that helps you analyze your Following list, identify unwanted accounts, and safely unfollow them with customizable rules and rate limits. 
 - 🤖 [**agent.jeffjade.com**](https://github.com/nicejade/agent.jeffjade.com): Focus on quickly mastering mainstream AI Agents like Claude Code, Hermes Agent, etc.
 - 🌍 [spacetime-travel](https://github.com/nicejade/spacetime-travel) is a local-first travel memory atlas built with Svelte, Vite, Tailwind CSS, Express, and SQLite.
 - 🧠 [**life-spent**](https://spent.lovejade.cn/): a minimalist web app that calmly visualizes how much of your life has already passed based on age and expectancy—no hype, just reflective math.
