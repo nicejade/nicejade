@@ -4,7 +4,7 @@
 
 个人主页：
 <a href="https://www.lovejade.cn/">清风明月轩</a> ·
-<a href="https://niceshare.site/">逍遥自在轩</a> ·
+<a href="https://www.niceshare.site/">逍遥自在轩</a> ·
 <a href="https://www.jeffjade.com/">晚晴幽草轩</a>
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -20,18 +20,20 @@
 ## Project Matrix
 
 - 🃏 [逸趣游乐坊](https://play.niceshare.site/)：益智休闲轻游，开箱畅玩乐悠。
-- 📝 [蓝河文档馆](https://blueos.niceshare.site/)：BlueOS（蓝河）应用开发文档；
+- 📝 [蓝河文档馆](https://blueos.niceshare.site/)：BlueOS（蓝河）应用开发文档。
+- 🤖 [智能体漫游](https://agent.jeffjade.com/)：转专注于快速掌握主流 AI Agent。
 - 📜 [慧悟万象阁](https://meta.niceshare.site/)：收录 390+ 高杠杆认知工具。
 - 📖 [智析单词书](https://word.lovejade.cn/)：用 AI 智慧重塑单词学习路径。
-- 💰 [时空旅行](https://travel.niceshare.site/)：定制地图，串联时空旅行记忆。
+- 🛬 [时空旅行](https://travel.niceshare.site/)：定制地图，串联时空旅行记忆。
+- 🕓 [人生已过](https://spent.lovejade.cn/)：以简洁界面呈现已走过的岁月。
 - 💰 [生财有迹](https://fund.lovejade.cn/)：个人资产的跟踪、分析与可视化。
 - 🕸️ [倾城之链](https://site.lovejade.cn/)：高品质网站导航与发现平台。
-- 🐉 [逍遥自在轩](https://niceshare.site/)：精选 AI、软件与服务的体验清单。
+- 🪷 [缘知随心庭](https://fine.niceshare.site/)：分享音乐、思想与感悟。
+- 🍑 [玉桃文飨轩](https://share.lovejade.cn/)：Markdown 一键成图的美感工具。
+- 🐉 [逍遥自在轩](https://www.niceshare.site/)：精选 AI、软件与服务的体验清单。
 - 🍀 [清风明月轩](https://www.lovejade.cn/)：探索 Web 技术与设计美学。
 - 🐬 [晚晴幽草轩](https://www.jeffjade.com/)：个人技术与随笔博客。
-- 🪷 [缘知随心庭](https://fine.niceshare.site/)：分享音乐、思想与感悟。
 - 🐳 [在线编辑器](https://markdown.lovejade.cn/)：轻量顺滑的 Markdown 在线编辑。
-- 🍑 [玉桃文飨轩](https://share.lovejade.cn/)：Markdown 一键成图的美感工具。
 
 ## Connect Me
 
