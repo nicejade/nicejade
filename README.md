@@ -38,11 +38,14 @@
 ## Connect Me
 
 <div align="left">
-  <a href="https://www.youtube.com/@MarshalXuan">
-    <img alt="轩帅 | YouTube" width="26px" src="https://github.com/nicejade/nicejade/blob/master/icon/youtube.svg" />
-  </a>
   <a href="https://x.com/MarshalXuan">
     <img alt="杨琼璞 | Twitter" width="26px" src="https://github.com/nicejade/nicejade/blob/master/icon/twitter.svg" />
+  </a>
+  <a href="https://www.facebook.com/MarshalXuan">
+    <img alt="杨琼璞 | Facebook" width="26px" src="https://github.com/nicejade/nicejade/blob/master/icon/facebook.svg" />
+  </a>
+  <a href="https://www.youtube.com/@MarshalXuan">
+    <img alt="轩帅 | YouTube" width="26px" src="https://github.com/nicejade/nicejade/blob/master/icon/youtube.svg" />
   </a>
   <a href="https://space.bilibili.com/690989854">
     <img alt="杨轩帅 | 哔哩哔哩" width="26px" src="https://github.com/nicejade/nicejade/blob/master/icon/bilibili.svg" />
@@ -52,9 +55,6 @@
   </a>
   <a href="https://quickapp.lovejade.cn/?ref=github.com">
     <img alt="静轩之别苑" width="26px" src="https://github.com/nicejade/nicejade/blob/master/icon/blog.svg" />
-  </a>
-  <a href="https://www.facebook.com/nice.jade.yang">
-    <img alt="杨琼璞 | Facebook" width="26px" src="https://github.com/nicejade/nicejade/blob/master/icon/facebook.svg" />
   </a>
   <a href="https://t.me/nicejade">
     <img alt="杨琼璞 | Telegram" width="26px" src="https://github.com/nicejade/nicejade/blob/master/icon/telegram.svg" />
