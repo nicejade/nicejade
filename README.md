@@ -1,4 +1,4 @@
-# 杨轩帅 · 作品与宇宙
+## 杨轩帅 · 作品与宇宙
 
 专注于构建提升效率、共享资源与探索技术的实用型产品，让每一次点击都更有价值。
 
@@ -20,13 +20,13 @@
 
 <div align="center">
 
-# GainMore
+## GainMore AI
 
 ### Know Your Wealth. Gain More.
 
 See where your money stands, set goals, take action, and get AI advice built on your own numbers.
 
-![GainMore AI](./assets/gainmore-showcase.gif)
+[![GainMore AI](https://github.com/nicejade/nicejade/blob/master/icon/gainmore-showcase.svg)](https://gainmore.ai)
 
 **Free to start · No bank connection required**
 
