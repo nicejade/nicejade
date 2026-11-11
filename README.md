@@ -17,6 +17,24 @@
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
+
+<div align="center">
+
+# GainMore
+
+### Know Your Wealth. Gain More.
+
+See where your money stands, set goals, take action, and get AI advice built on your own numbers.
+
+![GainMore AI](./assets/gainmore-showcase.gif)
+
+**Free to start · No bank connection required**
+
+[Website](https://gainmore.ai) · [Get Started](https://app.gainmore.ai)
+
+</div>
+
+
 ## Project Matrix
 
 - 🃏 [逸趣游乐坊](https://play.niceshare.site/)：益智休闲轻游，开箱畅玩乐悠。
