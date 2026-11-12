@@ -40,7 +40,7 @@ See where your money stands, set goals, take action, and get AI advice built on 
 - 🃏 [逸趣游乐坊](https://play.niceshare.site/)：益智休闲轻游，开箱畅玩乐悠。
 - 📝 [蓝河文档馆](https://blueos.niceshare.site/)：BlueOS（蓝河）应用开发文档。
 - 🤖 [智能体漫游](https://agent.jeffjade.com/)：转专注于快速掌握主流 AI Agent。
-- 📜 [慧悟万象阁](https://meta.niceshare.site/)：收录 390+ 高杠杆认知工具。
+- 📜 [慧悟万象阁](https://meta.niceshare.site/)：收录 `620+` 高杠杆认知工具。
 - 📖 [智析单词书](https://word.lovejade.cn/)：用 AI 智慧重塑单词学习路径。
 - 🛬 [时空旅行](https://travel.niceshare.site/)：定制地图，串联时空旅行记忆。
 - 🕓 [人生已过](https://spent.lovejade.cn/)：以简洁界面呈现已走过的岁月。
